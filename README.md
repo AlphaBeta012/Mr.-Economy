@@ -10,13 +10,13 @@
     "url": "https://www.settrade.com/th/news-and-articles/news/main",
     "image": "https://printler.com/media/photo/150382.jpg"
    },
-   {
    "title": "Today News!",
    "url": "https://www.settrade.com/th/news-and-articles/news/main",
    "color": 15258703
-   }
   }
+  
  ]
+ 
 }
  
    
