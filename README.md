@@ -4,7 +4,6 @@
  "username": "Mr.Economy",
  "content": "Economic News",
  "embeds": [
-  {
    "author": {
     "name" "Mr.Economy",
     "url": "https://www.settrade.com/th/news-and-articles/news/main",
@@ -12,8 +11,7 @@
    },
    "title": "Today News!",
    "url": "https://www.settrade.com/th/news-and-articles/news/main"
-  }
-  
+   
  ]
 
 }
